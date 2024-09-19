@@ -1,22 +1,6 @@
 version: "1.0"
+linter: jetbrains/qodana-jvm:2024.1
 profile:
-  name: qodana.starter
+  name: qodana.recommended
 include:
-  - name: Deprecation
-  - name: DeprecatedIsStillUsed
-  - name: SizeReplaceableByIsEmpty
-  - name: CStyleArrayDeclaration
-  - name: FieldMayBeFinal
-  - name: UnnecessaryModifier
-  - name: UnnecessarySemicolon
-  - name: TrivialIf
-  - name: GroovyTrivialIf
-  - name: TrivialIfJS
-  - name: UnnecessaryLocalVariable
-  - name: UnnecessaryLocalVariableJS
-  - name: UnnecessaryContinue
-  - name: RedundantArrayCreation
-  - name: StringOperationCanBeSimplified
-  - name: RedundantClassCall
-  - name: JavadocDeclaration
-  - name: UnnecessaryUnicodeEscape
+  - name: CheckDependencyLicenses
