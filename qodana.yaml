@@ -20,5 +20,3 @@ include:
   - name: RedundantClassCall
   - name: JavadocDeclaration
   - name: UnnecessaryUnicodeEscape
-  - name: VulnerableLibrariesGlobal
-  - name: VulnerableCodeUsages
