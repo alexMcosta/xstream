@@ -22,3 +22,5 @@ include:
   - name: UnnecessaryUnicodeEscape
   - name: VulnerableCodeUsages
   - name: VulnerableLibrariesGlobal
+plugins:
+  - id: CheckStyle-IDEA
