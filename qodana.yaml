@@ -2,15 +2,3 @@ version: "1.0"
 linter: jetbrains/qodana-jvm:2024.3
 profile:
   name: qodana.recommended
-exclude:
-  - name: All
-include:
-  - name: VulnerableLibrariesGlobal
-  - name: VulnerableCodeUsages
-  - name: VulnerableApi
-  - name: RiderSecurityErrorsInspection
-  - name: GoVulnerableCodeUsages
-  - name: NpmVulnerableApiCode
-  - name: PyVulnerableApiCodeInspection
-  - name: HardcodedPasswords
-  - name: CheckDependencyLicenses
