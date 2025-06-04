@@ -1,0 +1,28 @@
+version: "1.0"
+profile:
+  name: qodana.recommended
+include:
+  - name: CheckStyle
+  - name: CStyleArrayDeclaration
+  - name: DeprecatedIsStillUsed
+  - name: Deprecation
+  - name: FieldMayBeFinal
+  - name: GroovyTrivialIf
+  - name: JavadocDeclaration
+  - name: RedundantArrayCreation
+  - name: RedundantClassCall
+  - name: SizeReplaceableByIsEmpty
+  - name: StringOperationCanBeSimplified
+  - name: TrivialIf
+  - name: TrivialIfJS
+  - name: UnnecessaryContinue
+  - name: UnnecessaryLocalVariable
+  - name: UnnecessaryLocalVariableJS
+  - name: UnnecessaryModifier
+  - name: UnnecessarySemicolon
+  - name: UnnecessaryUnicodeEscape
+  - name: VulnerableCodeUsages
+  - name: VulnerableLibrariesGlobal
+linter: jetbrains/qodana-jvm:2024.3
+plugins:
+  - id: CheckStyle-IDEA

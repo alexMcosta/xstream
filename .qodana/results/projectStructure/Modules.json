@@ -1,0 +1,814 @@
+{
+  "modules": [
+    {
+      "name": "xstream-benchmark",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/xstream-benchmark",
+          "excludePatterns": [],
+          "excludeFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-benchmark/target",
+              "type": "Exclude",
+              "packagePrefix": ""
+            }
+          ],
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-benchmark/src/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream-benchmark/src/test",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream-benchmark/target/generated-resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-21",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "xstream",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: xmlpull:xmlpull:1.1.3.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xpp3:xpp3_min:1.1.4c",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "xstream",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/xstream",
+          "excludePatterns": [],
+          "excludeFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream/target",
+              "type": "Exclude",
+              "packagePrefix": ""
+            }
+          ],
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream/src/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream/src/test",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream/target/generated-resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream/target/generated-sources/annotations",
+              "type": "GeneratedSource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-21",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "Maven: org.dom4j:dom4j:2.0.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jdom:jdom:1.1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jdom:jdom2:2.0.6",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: joda-time:joda-time:2.10.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: stax:stax:1.2.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: com.fasterxml.woodstox:woodstox-core:5.2.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.codehaus.woodstox:stax2-api:4.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xom:xom:1.3.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xmlpull:xmlpull:1.1.3.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: net.sf.kxml:kxml2-min:2.3.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xpp3:xpp3_min:1.1.4c",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: cglib:cglib-nodep:2.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.codehaus.jettison:jettison:1.4.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: jakarta.activation:jakarta.activation-api:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: junit:junit:3.8.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: jmock:jmock:1.0.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.json:json:20180813",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: com.megginson.sax:xml-writer:0.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.apache.commons:commons-lang3:3.8.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "xstream-its",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/xstream-its",
+          "excludePatterns": [],
+          "excludeFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-its/target",
+              "type": "Exclude",
+              "packagePrefix": ""
+            }
+          ],
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-its/src/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream-its/src/test",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream-its/src/test-resources",
+              "type": "TestResource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-21",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "xstream",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: xmlpull:xmlpull:1.1.3.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xpp3:xpp3_min:1.1.4c",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.apache.felix:org.apache.felix.framework:6.0.3",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.codehaus.mojo:animal-sniffer-annotations:1.9",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.glassfish.hk2.external:javax.inject:2.4.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam-container-native:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.base:ops4j-base-store:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.base:ops4j-base-util-property:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam-spi:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.base:ops4j-base-spi:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.tinybundles:tinybundles:2.1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: biz.aQute.bnd:bndlib:2.4.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.swissbox:pax-swissbox-core:1.8.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.swissbox:pax-swissbox-lifecycle:1.8.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.swissbox:pax-swissbox-tracker:1.8.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.base:ops4j-base-lang:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.base:ops4j-base-net:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.base:ops4j-base-monitors:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.url:pax-url-link:2.4.5",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.url:pax-url-commons:2.4.5",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.swissbox:pax-swissbox-property:1.8.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.url:pax-url-classpath:2.4.5",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.swissbox:pax-swissbox-optional-jcl:1.8.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam-extender-service:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.swissbox:pax-swissbox-extender:1.8.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.swissbox:pax-swissbox-framework:1.8.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.base:ops4j-base-exec:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.base:ops4j-base-io:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam-invoker-junit:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam-junit4:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam-inject:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam-link-assembly:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.exam:pax-exam-link-mvn:4.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.ops4j.pax.url:pax-url-aether:2.4.5",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.slf4j:jcl-over-slf4j:1.6.6",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: junit:junit:4.11",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.hamcrest:hamcrest-core:1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.slf4j:slf4j-simple:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.slf4j:slf4j-api:1.6.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "xstream-parent",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$",
+          "excludePatterns": [],
+          "excludeFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/target",
+              "type": "Exclude",
+              "packagePrefix": ""
+            }
+          ],
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-21",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "xstream-distribution",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/xstream-distribution",
+          "excludePatterns": [],
+          "excludeFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-distribution/target",
+              "type": "Exclude",
+              "packagePrefix": ""
+            }
+          ],
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-21",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "xstream",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: xmlpull:xmlpull:1.1.3.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xpp3:xpp3_min:1.1.4c",
+          "type": "Library"
+        },
+        {
+          "name": "xstream-hibernate",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: org.hibernate:hibernate-core:4.2.5.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: antlr:antlr:2.7.7",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jboss.logging:jboss-logging:3.1.0.GA",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: dom4j:dom4j:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.1.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.hibernate.common:hibernate-commons-annotations:4.0.2.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.javassist:javassist:3.15.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "xstream-jmh",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: org.openjdk.jmh:jmh-core:1.21",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: net.sf.jopt-simple:jopt-simple:4.6",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.apache.commons:commons-math3:3.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: commons-codec:commons-codec:1.11",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: com.brsanthu:migbase64:2.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: net.sf.kxml:kxml2-min:2.3.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: stax:stax:1.2.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: com.fasterxml.woodstox:woodstox-core:5.2.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.codehaus.woodstox:stax2-api:4.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.dom4j:dom4j:2.0.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jdom:jdom:1.1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jdom:jdom2:2.0.6",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xom:xom:1.3.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.codehaus.jettison:jettison:1.4.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: jakarta.activation:jakarta.activation-api:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "xstream-benchmark",
+          "type": "Module"
+        }
+      ]
+    },
+    {
+      "name": "xstream-jmh",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/xstream-jmh",
+          "excludePatterns": [],
+          "excludeFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-jmh/target",
+              "type": "Exclude",
+              "packagePrefix": ""
+            }
+          ],
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-jmh/src/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream-jmh/src/test",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream-jmh/target/generated-resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-21",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "xstream",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: org.openjdk.jmh:jmh-core:1.21",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: net.sf.jopt-simple:jopt-simple:4.6",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.apache.commons:commons-math3:3.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.openjdk.jmh:jmh-generator-annprocess:1.21",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: commons-codec:commons-codec:1.11",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: com.brsanthu:migbase64:2.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xpp3:xpp3_min:1.1.4c",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xmlpull:xmlpull:1.1.3.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: net.sf.kxml:kxml2-min:2.3.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: stax:stax:1.2.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: com.fasterxml.woodstox:woodstox-core:5.2.0",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.codehaus.woodstox:stax2-api:4.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.dom4j:dom4j:2.0.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jdom:jdom:1.1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jdom:jdom2:2.0.6",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xom:xom:1.3.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.codehaus.jettison:jettison:1.4.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: jakarta.activation:jakarta.activation-api:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "xstream-hibernate",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/xstream-hibernate",
+          "excludePatterns": [],
+          "excludeFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-hibernate/target",
+              "type": "Exclude",
+              "packagePrefix": ""
+            }
+          ],
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/xstream-hibernate/src/java",
+              "type": "Source",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream-hibernate/src/test",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/xstream-hibernate/target/generated-resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "jbr-21",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "xstream",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: xmlpull:xmlpull:1.1.3.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: xpp3:xpp3_min:1.1.4c",
+          "type": "Library"
+        },
+        {
+          "name": "xstream",
+          "type": "Module"
+        },
+        {
+          "name": "Maven: org.hibernate:hibernate-core:4.2.5.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: antlr:antlr:2.7.7",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jboss.logging:jboss-logging:3.1.0.GA",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: dom4j:dom4j:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.1.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.hibernate.common:hibernate-commons-annotations:4.0.2.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.javassist:javassist:3.15.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.hibernate:hibernate-envers:4.2.5.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.hibernate:hibernate-entitymanager:4.2.5.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.hsqldb:hsqldb:2.2.8",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.slf4j:slf4j-simple:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: org.slf4j:slf4j-api:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: javassist:javassist:3.12.1.GA",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: cglib:cglib-nodep:2.2",
+          "type": "Library"
+        },
+        {
+          "name": "Maven: junit:junit:3.8.1",
+          "type": "Library"
+        }
+      ]
+    }
+  ]
+}
