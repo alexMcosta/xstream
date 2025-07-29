@@ -6,6 +6,7 @@ on:
     branches: # Specify your branches here
       - main # The 'main' branch
       - 'releases/*' # The release branches
+      - quick-fix-apply
 
 jobs:
   qodana:
