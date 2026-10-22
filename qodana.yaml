@@ -3,7 +3,7 @@
 ####################################################################################################################
 
 version: "1.0"
-linter: qodana-jvm-community
+linter: qodana-jvm
 profile:
   name: qodana.recommended
 include:
