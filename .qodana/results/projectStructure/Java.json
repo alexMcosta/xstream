@@ -1,0 +1,32 @@
+{
+  "modules": [
+    {
+      "name": "xstream-benchmark",
+      "languageLevel": 8
+    },
+    {
+      "name": "xstream",
+      "languageLevel": 8
+    },
+    {
+      "name": "xstream-its",
+      "languageLevel": 8
+    },
+    {
+      "name": "xstream-parent",
+      "languageLevel": 5
+    },
+    {
+      "name": "xstream-distribution",
+      "languageLevel": 5
+    },
+    {
+      "name": "xstream-jmh",
+      "languageLevel": 8
+    },
+    {
+      "name": "xstream-hibernate",
+      "languageLevel": 8
+    }
+  ]
+}
